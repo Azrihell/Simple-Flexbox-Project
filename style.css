@@ -14,4 +14,8 @@ img {
   width: 450px;
   height: 300px;
   margin: 10px;
+  transition: all .7s;
+}
+img:hover {
+  transform: scale(1.1);
 }
